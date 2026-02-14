@@ -1,27 +1,31 @@
-Projeto relizado para o processo seletivo na empresa Demander Força de Vendas.
+# Conversor de Números Romanos ↔ Arábicos
 
-Deploy do Projeto: https://erickrost.github.io/NumeroRomano/
+Este projeto foi desenvolvido como desafio técnico para a empresa Demander.
 
-Sobre:
+A aplicação permite converter números:
 
-     Criar um código usando POO para conversão de números romanos para números reais.
+- Romanos → Arábicos
+- Arábicos → Romanos
 
-        Requisitos:
-            1. Converte um número real para um número romano.
-            2. Converter um número romano pra número real.
+Utilizando JavaScript puro (Vanilla JS), HTML e CSS.
 
-        Exemplos:
-            9       -> IX
-            39      -> XXXIX
-            IX      -> 9
-            XXXIX   -> 39
+---
 
-        Programação Orientada à Objetos.
-        Código não-procedural.
+## 📌 Funcionalidades
 
-        Diferenciais:
-        - interface gráfica, para apresentação, só mandar o código fonte não é tão atraente
+- Conversão de números romanos para arábicos
+- Conversão de números arábicos para romanos
+- Validação básica de entrada
+- Interface simples e interativa no navegador
 
-Interface Gráfica:
+---
 
-   <img src="./images/image.png" alt="Interface Gráfica">
+## 🛠 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Manipulação de DOM
+- Classes com campos privados (#)
+
+---
